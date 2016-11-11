@@ -1,9 +1,8 @@
 {
   "name": "my-recipe-book",
   "version": "1.0.0",
-  "description": "Simple Package to manage recipes",
+  "description": "A minimal recipe management application.",
   "main": "index.js",
-  "repository": "https://github.com/dhaval-c/test-react.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
